@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>GoFuckYourself</layoutype>
+
+<item>
+    <title>[COLOR springgreen]CLICK Server 1 to PLAY Movie[/COLOR]</title>
+    <link></link>
+    <thumbnail>https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/azmovies/icon.png</thumbnail>
+    <fanart>https://raw.githubusercontent.com/warehousecrates/TheWareHouse/main/text/azmovies/fanart.jpg</fanart>
+</item>
+
+<plugin>
+    <title>AZMovies</title>
+    <link>plugin://plugin.video.azmovies/</link>
+    <thumbnail>special://home/addons/plugin.video.azmovies/icon.png</thumbnail>
+    <fanart>special://home/addons/plugin.video.azmovies/fanart.jpg</fanart>
+</plugin>
